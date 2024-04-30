@@ -7,9 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my GitHub! I'm a passionate Computer Science student imersed in a world of architecting solutions and sculpting captivating frontends. 🌟
 
+<!---
 ## About Me ℹ️
 
 My journey in the tech world began with Python, where I refined my craft in building robust backend systems and crafting efficient algorithms. 💻 Along the way, I've dipped my toes into the realms of JavaScript and TypeScript, traversing the vistas of frontend development and dynamic user interfaces. 🎨
+--->
 
 ## Tech Stack 🛠️
 
@@ -29,9 +31,8 @@ My journey in the tech world began with Python, where I refined my craft in buil
 
 Here are a few of my standout projects:
 
-1. **[Project Name](link):** Brief description.
-2. **[Project Name](link):** Brief description.
-3. **[Project Name](link):** Brief description.
+1. **[Contacts App](https://github.com/Git-haan/Full-Stack-Contacts-App):** This project implements a CRUD backend API with Python/Flask that utilizes ORM to bridge to the JavaScript/React frontend.
+2. **[Portfolio](https://github.com/Git-haan/React-Portfolio-Website):** A Portfolio Website implemented through Codux and Vite that features dynamic elements.
 
 Feel free to explore my repositories to see more of my work! 🌐
 --->
