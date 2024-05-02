@@ -16,13 +16,13 @@ My journey in the tech world began with Python, where I refined my craft in buil
 ## Tech Stack 🛠️
 
 - **Languages:** Python, JavaScript, TypeScript, CSS, HTML
-- **Frameworks:** Flask, React.js,
+- **Frameworks:** Flask, React.js, Tailwind
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VS Code
 
 ## What I'm Up To 👀
 
-- 👨‍💻 Persuing a Bachelor's degree in Computer Science
+- 👨‍💻 Persuing a Bachelor's degree in Computer Science at Georgia Tech
 - 🌱 Learning new libraries and frameworks to enhance my skill set
 - 🚀 Working on exciting projects to push the boundaries of my creativity
 
