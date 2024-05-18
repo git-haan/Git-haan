@@ -3,9 +3,11 @@ Git-haan/Git-haan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi, I'm Ishaan
+## Hey, I'm Ishaan 👋🏽
 
-Welcome to my GitHub! I'm a passionate Computer Science student imersed in a world of architecting solutions and sculpting captivating frontends. 🌟
+I'm a passionate Computer Science student imersed in a world of architecting solutions and sculpting captivating frontends.
+- Check out my [website](https://ishaan.tech/) to see what I'm up to.
+- Play my [game](https://pixel-portfolio-five.vercel.app/) to learn more about me.
 
 <!---
 ## About Me ℹ️
@@ -13,14 +15,17 @@ Welcome to my GitHub! I'm a passionate Computer Science student imersed in a wor
 My journey in the tech world began with Python, where I refined my craft in building robust backend systems and crafting efficient algorithms. 💻 Along the way, I've dipped my toes into the realms of JavaScript and TypeScript, traversing the vistas of frontend development and dynamic user interfaces. 🎨
 --->
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, CSS, HTML
-- **Frameworks:** Flask, React.js, Tailwind
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code
+**Languages:** `Python` `Java` `JavaScript` `TypeScript` `CSS` `HTML`
 
-## What I'm Up To 👀
+**Frontend:** `React` `Next.js` `Tailwind`
+
+**Backend:** `Flask` `Django` `MongoDB` `MySQL`
+
+**Tools:** `Git` `VS Code` `Powershell`
+
+## 👀 What I'm Up To
 
 - 👨‍💻 Persuing a Bachelor's degree in Computer Science at Georgia Tech
 - 🌱 Learning new libraries and frameworks to enhance my skill set
