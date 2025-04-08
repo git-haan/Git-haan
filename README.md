@@ -19,17 +19,18 @@ My journey in the tech world began with Python, where I refined my craft in buil
 
 **Languages:** `Python` `Java` `JavaScript` `TypeScript` `CSS` `HTML`
 
-**Frontend:** `React` `Next.js` `Tailwind`
+**Technologies:** `React` `Next.js` `Tailwind` `Figma` `Flask` `Django` `MongoDB` `MySQL` `Firebase`
 
-**Backend:** `Flask` `Django` `MongoDB` `MySQL`
+**Concepts:** `Object Oriented Programming` `Web Frameworks` `CRUD` `Agile` `Frontend` `Backend` `Full Stack` `AI`
 
-**Tools:** `Git` `VS Code` `Powershell`
 
+<!---
 ## 👀 What I'm Up To
 
 - 👨‍💻 Persuing a Bachelor's degree in Computer Science at Georgia Tech
 - 🌱 Learning new libraries and frameworks to enhance my skill set
 - 🚀 Working on exciting projects to push the boundaries of my creativity
+--->
 
 <!---
 ## Projects 🚧
