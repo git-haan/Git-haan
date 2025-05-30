@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ## Hey, I'm Ishaan 👋🏽
 
 I'm a passionate Computer Science student imersed in a world of architecting solutions and sculpting captivating frontends.
-- Check out my [website](https://ishaan.tech/) to see what I'm up to.
+- Check out my [website](https://www.ishaanreddy.dev/) to see what I'm up to.
 - Play my [game](https://pixel-portfolio-five.vercel.app/) to learn more about me.
 
 <!---
